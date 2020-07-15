@@ -13,7 +13,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ### Goals
 - Eating
-  - Confine Calorie count to no more than 2370 per day
+  - Confine Calorie count to no more than 2200 per day
   - Should afford 2 lb/week loss rate
   - Walk to work at least 3 days a week
 - Painting
@@ -32,10 +32,15 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 
 ---
 
-### Chane Log by Day
+### Change Log by Day
 
 #### Monday, July 13 2020
 - Code, Started Changelog Challenge
   - Set up Repo
   - Set up ReadMe
-- Eating, Went a bit over so I owe 15 min of PushUps
+- Eating, Went a bit over so I owe 15 min of PushUps (Failed PushUps)
+
+#### Tuesday, July 14 2020
+- Eating, Consumed 2203 Cal burned 293 for a net of 1910 Cal 
+  - Will try to reduce tomorrow
+  
