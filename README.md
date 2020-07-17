@@ -44,3 +44,10 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - Eating, Consumed 2203 Cal burned 293 for a net of 1910 Cal 
   - Will try to reduce tomorrow
   
+#### Tuesday, July 15 2020
+- Eating, Consumed 2073 Cal burned 82 for a net of 1991 Cal 
+  - Will try to reduce tomorrow
+  
+#### Tuesday, July 16 2020
+- Eating, Consumed 1555 Cal burned 23 for a net of 1532 Cal 
+  
