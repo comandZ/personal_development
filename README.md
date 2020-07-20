@@ -44,10 +44,21 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - Eating, Consumed 2203 Cal burned 293 for a net of 1910 Cal 
   - Will try to reduce tomorrow
   
-#### Tuesday, July 15 2020
+#### Wednesday, July 15 2020
 - Eating, Consumed 2073 Cal burned 82 for a net of 1991 Cal 
   - Will try to reduce tomorrow
   
-#### Tuesday, July 16 2020
+#### Thursday, July 16 2020
 - Eating, Consumed 1555 Cal burned 23 for a net of 1532 Cal 
   
+#### Friday, July 17 2020
+- No accomplishments toward goal today
+
+#### Saturday, July 18 2020 
+- No accomplishments toward goal today
+
+#### Sunday, July 19 2020
+- Kept callories down but did not track
+- Cleaened up a couple models
+- Test painted gundam pice
+- Cleaned iPad pro area for new screen to install
