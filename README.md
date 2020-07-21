@@ -62,3 +62,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - Cleaened up a couple models
 - Test painted gundam pice
 - Cleaned iPad pro area for new screen to install
+
+#### Monday, July 20 2020
+- Eating, Consumed 1649 Cal burned 53 for a net of 1596 Cal
+  - Looking into better eatting options and habits
