@@ -66,3 +66,6 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 #### Monday, July 20 2020
 - Eating, Consumed 1649 Cal burned 53 for a net of 1596 Cal
   - Looking into better eatting options and habits
+  
+#### Tuesday, July 21 2020
+- Eating, Consumed 1685 Cal burned 288 for a net of 1397 Cal
