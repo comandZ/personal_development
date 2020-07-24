@@ -69,3 +69,13 @@ This is a personal changelog of my updates. Not everything is code. This is mean
   
 #### Tuesday, July 21 2020
 - Eating, Consumed 1685 Cal burned 288 for a net of 1397 Cal
+
+#### Wednesday, July 22 2020
+- Eating, Consumed 1563 Cal burned 292 for a net of 1270 Cal
+- Equipment Repair, Checked on tracking of new screen
+
+#### Thursday, July 23 2020
+- Eating, Consumed 1400 Cal burned 17 for a net of 1383 Cal
+- Equipment Repair
+  - Screen arrived today will pick up from office tomorrow
+  - Reordered HDD's that were lost by Newegg
